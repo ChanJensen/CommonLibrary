@@ -1,8 +1,7 @@
-package com.jensenchen.commonlibrary;
+package com.jensenchen.mylibrary;
 
 import android.util.Log;
 
-import javax.security.auth.login.LoginException;
 
 /**
  * 私人代码库
